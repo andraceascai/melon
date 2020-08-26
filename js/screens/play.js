@@ -7,7 +7,7 @@ game.PlayScreen = me.Stage.extend({
         game.data.score = 0;
 
         // load map
-        me.levelDirector.loadLevel("game01")
+        me.levelDirector.loadLevel("harta1")
 
         // play audio track
         // me.audio.playTrack("dst-inertexponent")
